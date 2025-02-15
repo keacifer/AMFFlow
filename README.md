@@ -1,2 +1,1 @@
-# AMFFlow
-The code and weight of《Adaptive Memory Fusion Module in Optical Flow Estimation》
+It will be released soon after the paper is accepted.
